@@ -130,7 +130,7 @@ Reto8_DataMining/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/jdthgp27/Reto8_DataMining.git
+git clone https://github.com/everest9957/Reto8_DataMining.git
 cd Reto8_DataMining
 ```
 
@@ -234,9 +234,9 @@ Los resultados validan que:
 
 **Judit Giravent Pineda**
 
-- GitHub: [@jdthgp27](https://github.com/jdthgp27)
+- GitHub: [@everest9957](https://github.com/everest9957)
 - LinkedIn: [judit-giravent-27b167156](https://www.linkedin.com/in/judit-giravent-27b167156/)
-- Email: jdthgp27@gmail.com
+- Email: everest9957@gmail.com
 
 ---
 
